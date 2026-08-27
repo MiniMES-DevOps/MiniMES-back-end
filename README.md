@@ -14,6 +14,7 @@ npm install
 - `express`: Framework web para criar a API.
 - `cors`: Liberação de acessos externos (Cross-Origin Resource Sharing).
 - `dotenv`: Gerenciamento de variáveis de ambiente.
+- `morgan`: Logger de requisições HTTP para node.js.
 - `nodemon` (desenvolvimento): Reinicia o servidor automaticamente a cada alteração.
 
 ---
